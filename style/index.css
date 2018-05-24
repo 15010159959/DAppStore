@@ -1,0 +1,156 @@
+.container{
+    width:90%;
+    margin: auto;
+}
+
+.search{
+    position: relative;
+    margin-top: 20px;
+}
+.search input{
+    width: 339px;
+    height: 47px;
+    border-radius: 8px;
+    background-color: #EEF1F4;
+    padding-left: 40px;
+    font-size: 20px;
+    border:none;
+}
+.search .search_img{
+    width: 23px;
+    height: 23px;
+    position: absolute;
+    top: 14px;
+    left: 6px;
+}
+
+.wonderful{
+    margin-top: 50px;
+}
+.wonderful .banner{
+    margin-top: 17px;
+}
+.wonderful .banner .app_1{
+    width: 161px;
+    height: 148px;
+    float: left;
+}
+.wonderful .banner .app_1 .img{
+    width: 161px;
+    height: 90px;
+    background-color: #ccc;
+}
+.wonderful .banner .app_1 .name{
+    font-size: 15px;
+    display: block;
+}
+
+.wonderful .banner .app_1 .introduce{
+    font-size: 13px;
+    display: block;
+}
+.wonderful .banner .app_2{
+    width: 161px;
+    height: 148px;
+    float: right;
+}
+.wonderful .banner .app_2 .img{
+    width: 161px;
+    height: 90px;
+    background-color: #ccc;
+}
+
+.wonderful .banner .app_2 .name{
+    font-size: 15px;
+    display: block;
+}
+
+.wonderful .banner .app_2 .introduce{
+    font-size: 13px;
+    display: block;
+}
+.wonderful .banner .app_3{
+    width: 161px;
+    height: 148px;
+    float: left;
+}
+.wonderful .banner .app_3 .img{
+    width: 161px;
+    height: 90px;
+    background-color: #ccc;
+}
+
+.wonderful .banner .app_3 .name{
+    font-size: 15px;
+    display: block;
+}
+
+.wonderful .banner .app_3 .introduce{
+    font-size: 13px;
+    display: block;
+}
+.wonderful .banner .app_4{
+    width: 161px;
+    height: 148px;
+    float: right;
+}
+.wonderful .banner .app_4 .img{
+    width: 161px;
+    height: 90px;
+    background-color: #ccc;
+}
+
+.wonderful .banner .app_4 .name{
+    font-size: 15px;
+    display: block;
+}
+
+.wonderful .banner .app_4 .introduce{
+    font-size: 13px;
+    display: block;
+}
+
+.hot{
+    margin-top: 50px;
+}
+.hot .banner{
+    margin-top: 18px;
+}
+.hot .banner .no_1{
+    height: 56px;
+    margin-top: 10px;
+}
+.hot .banner .no_1 .number{
+    width: 21px;
+    height: 29px;
+    margin-top: 14px;
+    font-size: 24px;
+    text-align: center;
+    color: #FFBB00;
+}
+.hot .banner .no_1 .img{
+    line-height: 65px;
+    margin-left: 10px;
+    width: 56px;
+    height: 56px;
+    background-color: gray;
+}
+.hot .banner .no_1 .msg{
+    width:195px;
+    margin-top: 6px;
+    margin-left: 9px;
+}
+.hot .banner .no_1 .msg .name{
+    font-size: 17px;
+    display: block;
+}
+.hot .banner .no_1 .msg .introduce{
+    font-size: 13px;
+    display: block;
+}
+.hot .banner .no_1 .more{
+    width: 17px;
+    height: 17px;
+    font-size: 17px;
+    margin-top: 14px;
+}

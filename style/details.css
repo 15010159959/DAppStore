@@ -1,0 +1,103 @@
+.top{
+    width: 375px;
+    height:186px;
+    background-color: #33BBDC;
+}
+.top .up{
+    margin-left: 18px ;
+    margin-right: 18px ;
+    height: 98px;
+
+}
+.top .up .pic{
+    width: 80px;
+    height: 80px;
+    margin-top: 18px;
+    background-color: gray;
+}
+.top .up .msg{
+    margin-left: 9px;
+}
+.top .up .msg .name{
+    color:#fff;
+    font-size: 20px;
+    margin-top: 18px;
+    display: block;
+}
+.top .up .msg .introduce{
+    color:#fff;
+    font-size: 15px;
+    display: block;
+}
+.top .btn{
+    width: 339px;
+    height: 42px;
+    background-color: #FFC200;
+    margin-left: 18px;
+    border-radius: 2px;
+    margin-top: 24px;
+    font-size: 15px;
+    color: #6E4600;
+    border: none;
+}
+
+.introduce{
+    margin-top: 30px;
+    margin-left: 18px;
+    margin-right: 18px;
+}
+.introduce .banner{
+    height: 100px;
+}
+.introduce .banner span{
+    font-size: 13px;
+}
+.introduce .website{
+    height: 100px;
+}
+.introduce .website h3{
+    display: inline-block;
+}
+.introduce .website span{
+    display: inline-block;
+}
+.introduce .website .pc{
+    font-size: 11px;
+    background-color: #00CB91;
+    border-radius: 2px;
+    padding: 2px;
+    color: #fff;
+}
+
+.introduce .website .yd{
+    font-size: 11px;
+    background-color: #00ABFF;
+    border-radius: 2px;
+    padding: 2px;
+    color: #fff;
+}
+.introduce .website input{
+    width: 339px;
+    height: 42px;
+    margin-top: 15px;
+    background-color:#EEF1F4;
+    font-size: 15px;
+    border: none;
+    border-radius: 5px;
+    color: #33BBDC;
+}
+.introduce .contract{
+    margin-top: 30px;
+    height: 100px;
+}
+
+.introduce .contract input{
+    width: 339px;
+    height: 42px;
+    margin-top: 15px;
+    background-color:#EEF1F4;
+    font-size: 15px;
+    border: none;
+    border-radius: 5px;
+    color: #33BBDC;
+}
